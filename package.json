@@ -1,0 +1,10 @@
+{
+  "name": "bot-wa",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^3.0.0",
+    "@hapi/boom": "^10.0.0",
+    "bad-words": "^3.0.0"
+  }
+}
