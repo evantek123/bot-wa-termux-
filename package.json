@@ -1,6 +1,7 @@
 {
   "name": "bot-wa",
   "version": "1.0.0",
+  "type": "module",
   "main": "bot.js",
   "dependencies": {
     "@whiskeysockets/baileys": "^3.0.0",
